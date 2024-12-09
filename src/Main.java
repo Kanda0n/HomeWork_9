@@ -16,7 +16,7 @@ public class Main {
         System.out.println("Task 2");
         int[] expences2 = new int[5];
         expences2[0] = 54245;
-        expences2[1] = 19488;
+        expences2[1] = 19487;
         expences2[2] = 45790;
         expences2[3] = 51876;
         expences2[4] = 7250;
